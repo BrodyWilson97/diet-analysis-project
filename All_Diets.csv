@@ -1,0 +1,6 @@
+Diet_type,Recipe_name,Cuisine_type,Protein(g),Carbs(g),Fat(g),Extraction_day,Extraction_time
+Paleo,Bone Broth From 'Nom Nom Paleo',american,5.22,1.29,3.2,10/16/2022,17:20:09
+Paleo,Paleo Effect Asian-Glazed Pork Sides,south east Asian,181.55,28.62,146.14,10/16/2022,17:20:09
+Vegan,Vegan Recipe,american,10,20,5,10/16/2022,17:20:09
+Keto,Keto Recipe,mexican,30,5,20,10/16/2022,17:20:09
+Mediterranean,Mediterranean Recipe,mediterranean,15,30,10,10/16/2022,17:20:09
